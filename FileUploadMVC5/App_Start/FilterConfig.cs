@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace jQuery_File_Upload.MVC5
+namespace FileUploadMVC5
 {
     public class FilterConfig
     {

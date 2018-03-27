@@ -1,5 +1,5 @@
-﻿using jQuery_File_Upload.MVC5.Helpers;
-using jQuery_File_Upload.MVC5.Models;
+﻿using FileUploadMVC5.Helpers;
+using FileUploadMVC5.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Hosting;
 using System.Web.Mvc;
 
-namespace jQuery_File_Upload.MVC5.Controllers
+namespace FileUploadMVC5.Controllers
 {
     public class FileUploadController : Controller
     {

@@ -8,7 +8,7 @@ using System.IO;
 using System.Linq;
 
 
-namespace jQuery_File_Upload.MVC5.Helpers
+namespace FileUploadMVC5.Helpers
 {
     public class ImageHandler
     {

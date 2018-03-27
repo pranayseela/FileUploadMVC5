@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace jQuery_File_Upload.MVC5
+namespace FileUploadMVC5
 {
     public class BundleConfig
     {

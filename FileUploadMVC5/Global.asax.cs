@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace jQuery_File_Upload.MVC5
+namespace FileUploadMVC5
 {
     public class MvcApplication : System.Web.HttpApplication
     {

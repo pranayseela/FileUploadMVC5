@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Helpers;
 using System.Web.Hosting;
 
-namespace jQuery_File_Upload.MVC5.Helpers
+namespace FileUploadMVC5.Helpers
 {
     public class FilesHelper
     {
